@@ -3,7 +3,7 @@
 ## Dev, Build and Test
 
 
-## Resources
+## Resourcesass
 
 
 ## Description of Files and Directories
