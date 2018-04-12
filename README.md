@@ -3,7 +3,8 @@
 ## Dev, Build and Test
 
 
-## Resourcesass
+## Resources
+Version 1
 
 
 ## Description of Files and Directories
